@@ -46,4 +46,38 @@ output:
  <img src="img_girl.jpg"  width="500" height="600"> 
 ```
 <img src="img_girl.jpg"  width="500" height="600"> 
- 
+ ## Div tag
+ <div>HEY</div>
+this tag is used to write the data into the next line .
+## span tag
+<span>HEY</span>
+This tag is used to write the data continued with the same line.
+## Horizontal rule tag
+<hr>
+This tag is used to add a horizontal line to the page.
+## paragraph tag
+<p>HEY.I belongs to india.</p>
+This tag is used to write a paragraph in the html webpage.
+## table tag
+<table></table>
+This tag is used to add the table to the webpage
+## tr tag
+<tr></tr>
+This tag is used to add row to the table in webpage.
+## td tag
+<td>a</td>
+<td>b</td>
+
+This tag is used to add column to the table in webpage.
+## important tag
+<important>HI</important>
+this tag is used to highlight the important text in the web page.
+## strong tag
+<strong>HI</strong>
+this tag is used to make the text bold in a webpage.
+## sub tag
+log<sub>10</sub>n
+this tag is used to express the numerical value in the base.
+## sup tag
+3<sup>4</sup>
+this tag is used to the numerical value in the power of another numerical value in the webpage.
